@@ -1,2 +1,1 @@
-# Wind_Speed_Forecasting
- 
+# wind-speed-forecasting
