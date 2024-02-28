@@ -1,1 +1,3 @@
 # wind-speed-forecasting
+
+The project focuses on utilizing time series analysis techniques, including AutoRegressive (AR), Moving Average (MA), AutoRegressive Integrated Moving Average (ARIMA), and Seasonal AutoRegressive Integrated Moving Average (SARIMA), for wind speed forecasting. It involves collecting historical wind speed data and analyzing it to identify trends and patterns. Various models such as AR, MA, ARMA, ARIMA, and SARIMA are applied to capture different aspects of the data, including seasonality and trend. The project includes data preprocessing, model fitting, evaluation, and possibly parameter tuning to enhance forecasting accuracy. The primary objective is to develop a robust forecasting model to predict future wind speeds.
